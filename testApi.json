@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "email": "john.smith@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Ram",
+      "email": "Ram.doe@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Sham",
+      "email": "Sham.doe@example.com"
+    },
+    {
+      "id": 2,
+      "name": "JhonDear",
+      "email": "JhonDear.doe@example.com",
+      "Address": "Benglore",
+      "PhoneNumber": 8888888888,
+      "PinCode": 560063
+    },
+    {
+      "id": 6,
+      "name": "ajay",
+      "email": "sachin.doe@example.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "body": "Lorem ipsum dolor sit amet.",
+      "userId": 1
+    }
+  ]
+}
